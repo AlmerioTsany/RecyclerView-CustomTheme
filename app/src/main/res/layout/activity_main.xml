@@ -27,6 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/firstRecyclerView"/>
 
+<<<<<<< HEAD
     <Button
         android:id="@+id/thirdRecyclerView"
         android:text="Third RecycleView"
@@ -36,4 +37,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/secondRecyclerView"/>
 
+=======
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
 </androidx.constraintlayout.widget.ConstraintLayout>

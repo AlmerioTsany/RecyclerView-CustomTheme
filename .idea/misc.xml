@@ -6,10 +6,15 @@
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_first.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_second.xml" value="0.17798913043478262" />
+<<<<<<< HEAD
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_third.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/animal_item.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/car_item.xml" value="0.17798913043478262" />
         <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/item_pahlawan.xml" value="0.1456752655538695" />
+=======
+        <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/animal_item.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/almer/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/car_item.xml" value="0.17798913043478262" />
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
       </map>
     </option>
   </component>

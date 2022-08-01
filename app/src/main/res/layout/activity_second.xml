@@ -9,7 +9,11 @@
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+<<<<<<< HEAD
         tools:listitem="@layout/item_car"
+=======
+        tools:listitem="@layout/car_item"
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
         android:id="@+id/recycler_view2"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
 

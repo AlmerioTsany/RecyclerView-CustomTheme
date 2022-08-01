@@ -1,5 +1,9 @@
 package com.almerio.recyclerview.secondrecyclerview
 
+<<<<<<< HEAD
+=======
+import android.content.Intent
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -19,7 +23,11 @@ class ListCarAdapter(private val listCars: ArrayList<Cars>): RecyclerView.Adapte
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
+<<<<<<< HEAD
         val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item_car, parent, false)
+=======
+        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.car_item, parent, false)
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
         return ListViewHolder(view)
     }
 

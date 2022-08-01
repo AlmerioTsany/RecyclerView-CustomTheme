@@ -10,7 +10,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/recycler_view"
+<<<<<<< HEAD
         tools:listitem="@layout/item_animal"
+=======
+        tools:listitem="@layout/animal_item"
+>>>>>>> b5263994bfdd4142c4c6208877fac6948713d77f
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
 
 </FrameLayout>
